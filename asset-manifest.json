@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//Melnychenko97.github.io/hyperstardev/static/css/main.0b9058fa.chunk.css",
+    "main.js": "//Melnychenko97.github.io/hyperstardev/static/js/main.971f4ee3.chunk.js",
+    "main.js.map": "//Melnychenko97.github.io/hyperstardev/static/js/main.971f4ee3.chunk.js.map",
+    "runtime-main.js": "//Melnychenko97.github.io/hyperstardev/static/js/runtime-main.67a55a63.js",
+    "runtime-main.js.map": "//Melnychenko97.github.io/hyperstardev/static/js/runtime-main.67a55a63.js.map",
+    "static/js/2.246c08b9.chunk.js": "//Melnychenko97.github.io/hyperstardev/static/js/2.246c08b9.chunk.js",
+    "static/js/2.246c08b9.chunk.js.map": "//Melnychenko97.github.io/hyperstardev/static/js/2.246c08b9.chunk.js.map",
+    "index.html": "//Melnychenko97.github.io/hyperstardev/index.html",
+    "precache-manifest.4c9f08f4af2e7aa4efbe589b6bd8f66d.js": "//Melnychenko97.github.io/hyperstardev/precache-manifest.4c9f08f4af2e7aa4efbe589b6bd8f66d.js",
+    "service-worker.js": "//Melnychenko97.github.io/hyperstardev/service-worker.js",
+    "static/css/main.0b9058fa.chunk.css.map": "//Melnychenko97.github.io/hyperstardev/static/css/main.0b9058fa.chunk.css.map",
+    "static/js/2.246c08b9.chunk.js.LICENSE.txt": "//Melnychenko97.github.io/hyperstardev/static/js/2.246c08b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a55a63.js",
+    "static/js/2.246c08b9.chunk.js",
+    "static/css/main.0b9058fa.chunk.css",
+    "static/js/main.971f4ee3.chunk.js"
+  ]
+}
