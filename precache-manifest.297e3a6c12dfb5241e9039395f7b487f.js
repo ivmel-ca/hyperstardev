@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f7cc84cf5b985c48960446be1fadf85",
+    "revision": "c0ca690093c5bc539d09c106cde01666",
     "url": "//Melnychenko97.github.io/hyperstardev/index.html"
   },
   {
