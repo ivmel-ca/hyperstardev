@@ -1,0 +1,18 @@
+.tab {
+  width: fit-content;
+  margin: 15px 0;
+  padding: 15px 10px;
+  border-radius: 10px;
+  background: rgba(127, 255, 212, 0.7);
+  font-size: 20px;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & h2  {
+    margin: 0;
+    min-width: 250px;
+    padding-right: 20px;
+  }
+}

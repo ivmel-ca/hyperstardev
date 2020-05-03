@@ -1,0 +1,13 @@
+.sublist {
+  padding: 20px 0 20px 0;
+  list-style: none;
+
+  &__item {
+    list-style: none;
+    width: 100%;
+  }
+
+  &__clickable-wrapper {
+    cursor: pointer;
+  }
+}
